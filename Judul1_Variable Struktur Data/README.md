@@ -17,7 +17,9 @@ Baris 8-10 terdapat fungsi main () sebagai fungsi utama dan list kosong untuk me
 
 Baris 12-16 program menggunakan perulangan while agar terus menampilkan menu dan membaca input dari user. Terdapat juga untuk memastikan bahwa inputan berupa angka.
 
-Pada baris 20-26, jika user memilih pilihan satu maka program akan mengecek apakah list kosong atau menampilkan daftar tugas. Baris 28-34, jika memilih pilihan dua maka akan ada opsi untuk menambahkan tugas baru.
+Pada baris 20-26, jika user memilih pilihan satu maka program akan mengecek apakah list kosong atau menampilkan daftar tugas. 
+
+Baris 28-34, jika memilih pilihan dua maka akan ada opsi untuk menambahkan tugas baru.
 
 Selanjutnya baris ke 36-50 merupakan pilihan ketiga yaitu pilihan untuk menghapus tugas menggunakan pop().
 
